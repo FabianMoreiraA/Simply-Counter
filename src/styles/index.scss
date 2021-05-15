@@ -1,5 +1,24 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+body{
+    background-color: skyblue;
+}
+
+.counter{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.counter div{
+    display: inline-block;
+    font-size: 75px;
+    line-height: 80px;
+    background-color: navy;
+    color: turquoise;
+    padding: 50px;
+}
+
 /* 
 
     You can write your own styles here...
